@@ -1,0 +1,9 @@
+.env
+.env.*
+*.log
+*.key
+*.pem
+config.php
+secrets.php
+.DS_Store
+Thumbs.db
